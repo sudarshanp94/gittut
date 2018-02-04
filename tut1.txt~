@@ -1,3 +1,9 @@
 this is the first line of text
 this is the second line
+git init ----> initializes the repository
+git add . ----> commits all the changed files 
+git status ----> shows the status of the repository
+git commit -m "first commit" ----> saving the first instance
 
+green colour in status shows the file is updated and commited
+red colour shows the latest file hasnt yet been commited
