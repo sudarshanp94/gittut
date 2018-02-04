@@ -9,4 +9,6 @@ green colour in status shows the file is added but not commited
 red colour shows the latest file hasnt been added to the staging area
 if status is empty then all the files in the repository are saved
 
+we need to add the files after every change. so if we add the file and then provide changes then the commit will only store the file previous to the change
+
 
