@@ -5,5 +5,8 @@ git add . ----> commits all the changed files
 git status ----> shows the status of the repository
 git commit -m "first commit" ----> saving the first instance
 
-green colour in status shows the file is updated and commited
-red colour shows the latest file hasnt yet been commited
+green colour in status shows the file is added but not commited
+red colour shows the latest file hasnt been added to the staging area
+if status is empty then all the files in the repository are saved
+
+
